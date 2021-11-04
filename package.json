@@ -1,0 +1,23 @@
+{
+  "name": "testrepo2",
+  "version": "1.0.0",
+  "description": "This is a Test",
+  "main": "suitecloud.config.js",
+  "dependencies": {
+    "generate-changelog": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ls-stephane-to/TestRepo2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ls-stephane-to/TestRepo2/issues"
+  },
+  "homepage": "https://github.com/ls-stephane-to/TestRepo2#readme"
+}
