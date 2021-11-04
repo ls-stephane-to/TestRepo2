@@ -29,5 +29,5 @@ jobs:
     - run: suitecloud account:manageauth --list
     - run: suitecloud project:deploy
     - run: npm install -g auto-changelog
-    - run: auto-changelog -o
+    - run: auto-changelog -o CHANGELOG.md
 
