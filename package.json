@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "version": "auto-changelog -p && git add CHANGELOG.MD"
   },
   "repository": {
     "type": "git",
